@@ -7,6 +7,7 @@
     "react": "^16.5.0",
     "react-dom": "^16.5.0",
     "react-inview-monitor": "^2.2.0",
+    "react-paginate": "^5.2.4",
     "react-scripts": "1.1.5"
   },
   "scripts": {
